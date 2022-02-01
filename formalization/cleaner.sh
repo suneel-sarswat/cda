@@ -6,6 +6,7 @@ rm *.vo
 rm *.vok 
 rm *.vos 
 rm *.glob 
+rm *.crashcoqide
 echo \
 
 
