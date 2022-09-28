@@ -1,4 +1,4 @@
-This is the accompanying demonstration of the submission titled 'Continuous double auctions: characterization and formalization'.
+This is the accompanying demonstration of the submission titled 'The Design and Regulation of Exchanges: A Formal Approach'.
 
 To run this demonstration, first make sure you have OCaml installed on your system by typing 'ocaml --version' on your terminal. 
 If OCaml is not installed, please install it before proceeding.
