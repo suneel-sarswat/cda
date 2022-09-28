@@ -1,4 +1,4 @@
-Here we include the supplementary materials accompanying the paper 'The Design and Regulation of Exchanges: A~Formal Approach'.
+Here we include the supplementary materials accompanying the paper 'The Design and Regulation of Exchanges: A Formal Approach'.
 
 The file 'additional.pdf' consists of the main definitions, lemmas, theorems, and the algorithm of the paper along with the corresponding Coq statements that are used in the formalization. 
 
